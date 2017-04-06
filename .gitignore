@@ -1,0 +1,11 @@
+*.py[cod]
+
+# Django stuff:
+*.log
+*.pot
+.idea
+*.sublime-project
+*.sublime-workspace
+.bundle
+*.*~
+nohup.out
